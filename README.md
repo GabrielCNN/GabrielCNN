@@ -31,7 +31,7 @@ Solid experience in fraud analysis, KPIs, and prevention strategy.
 
 I am determined, enjoy learning new things, and have a quick learning ability. I am always open to new challenges.
 
-Skills: Fraud Prevention / Python / SQL / Power BI / Databricks
+Skills: Fraud Prevention / Python / SQL / Power BI / Databricks / SAS / Excel
   
 <div> 
   <a href="https://www.linkedin.com/in/gabrielcn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
