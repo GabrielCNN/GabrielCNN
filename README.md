@@ -10,9 +10,9 @@ title Linha do tempo
 
 section Carreira
 FIS                   :active,, 2015-10-01,2021-05-01
-Esfera                :active,, 2021-06-01,2023-01-01
+Esfera (Santander)               :active,, 2021-06-01,2023-01-01
 Getnet Brasil         :active,, 2023-02-01,2023-08-01
-Realize/Lojas Renner  :active,, 2023-09-04,2025-12-31
+Realize (Lojas Renner)  :active,, 2023-09-04,2025-12-31
 
 
 ```
