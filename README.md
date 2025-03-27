@@ -71,4 +71,4 @@ Skills: Fraud Prevention / SQL / Power BI / Databricks / SAS / Excel
 
 :newspaper_roll: Course Business Intelligence - FIAP (2021)
 
-:newspaper_roll: Big Data and Analytical Intelligence - FCT/UNESP (2021 - 2023)
+:newspaper_roll: Big Data and Analytical Intelligence - UNIVERSIDADE ANHEMBI MORUMBI (2021 - 2023)
