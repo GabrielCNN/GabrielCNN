@@ -18,6 +18,12 @@ Realize (Lojas Renner)  :active,, 2023-09-04,2025-12-31
 ```
 I have 8 years of experience in Fraud Prevention. In 2015/2021 I worked at FIS, where I was responsible for data analysis, preparation of fraud indicators, management presentations, creation of prevention strategy, creation and maintenance of systemic fraud rules. It was a great opportunity to develop my skills in analytical capacity, strategic vision of fraud prevention, maintenance of prevention system rules, and operations training.
 
+<div> 
+  <a href="https://www.linkedin.com/in/gabrielcn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+  
+----
+
 Work experience with Fraud Prevention, fraud prevention projects, currently working as a Fraud Prevention Specialist: 
 
 - Experience in Anti-Fraud systems (SRT, CPQD (Ynio) , Risk Center, Falcon); 
@@ -31,12 +37,18 @@ Solid experience in fraud analysis, KPIs, and prevention strategy.
 
 I am determined, enjoy learning new things, and have a quick learning ability. I am always open to new challenges.
 
-Skills: Fraud Prevention / Python / SQL / Power BI / Databricks / SAS / Excel
-  
-<div> 
-  <a href="https://www.linkedin.com/in/gabrielcn/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+Skills: Fraud Prevention / SQL / Power BI / Databricks / SAS / Excel
 
+### Languages and Technologies
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,powerbi" />
+</a>
+
+### Tools and Platforms
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</a>
+  
 ----
 
 ## Atuação profissional
