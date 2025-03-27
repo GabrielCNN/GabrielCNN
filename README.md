@@ -16,6 +16,7 @@ Realize (Lojas Renner)  :active,, 2023-09-04,2025-12-31
 
 
 ```
+I have 8 years of experience in Fraud Prevention. In 2015/2021 I worked at FIS, where I was responsible for data analysis, preparation of fraud indicators, management presentations, creation of prevention strategy, creation and maintenance of systemic fraud rules. It was a great opportunity to develop my skills in analytical capacity, strategic vision of fraud prevention, maintenance of prevention system rules, and operations training.
 
 Work experience with Fraud Prevention, fraud prevention projects, currently working as a Fraud Prevention Specialist: 
 
@@ -46,7 +47,7 @@ Skills: Fraud Prevention / Python / SQL / Power BI / Databricks
 
 :computer: Fraud Prevention Analyst - Esfera (Santander) (06.2021 - 01.2023)
 
-:video_game: Information Analyst - FIS (10.2015 - 05.2021)
+:computer: Information Analyst - FIS (10.2015 - 05.2021)
 
 ## Formação Acadêmica
 
