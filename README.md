@@ -65,7 +65,7 @@ Skills: Fraud Prevention / SQL / Power BI / Databricks / SAS / Excel
 
 :newspaper_roll: Authorization Management - Mastercard Academy LAC (2024)
 
-:newspaper_roll: Storytelling com dados - Mastercard Academy LAC (2024)
+:newspaper_roll: Storytelling with Data - Mastercard Academy LAC (2024)
 
 :newspaper_roll: Best Practices for Fraud Risk Management for Issuers - Mastercard Academy LAC (2024)
 
