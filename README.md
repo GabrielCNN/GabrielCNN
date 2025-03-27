@@ -1,6 +1,6 @@
-# Olá, i'm Gabriel
+# Hi there, i'm Gabriel
 
-learn a little about my journey 😊
+Learn a little about my journey 😊
 
 ```mermaid
 
